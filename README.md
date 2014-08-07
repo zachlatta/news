@@ -1,5 +1,7 @@
 # news
 
+**Disclaimer**: News is not complete and not ready for use yet.
+
 News is a simple command-line utility for reading Hacker News. News also
 contains a package for programatically accessing HN from Go programs.
 
